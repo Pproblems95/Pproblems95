@@ -10,6 +10,6 @@ i´m currently on fourth semester in ITT.
 i´m learning english and i´m learning code.
 If you ask me about my hobbies, I like  listening to music, playing videogames, playing guitar, eating new food and, sometimes, meeting new people.
 If you want to reach me, you can email me to *l21212001@tectijuana.edu.mx*
-##My plans for the future
+## My plans for the future
 i´d like to work on something related to virtual reality since I like the concept of being able to create a digital world where you can do whatever you want, maybe assembling a team of engineers with the same idea and skills to pull it through.
 
